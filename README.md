@@ -19,16 +19,16 @@ Rather than using a traditional always-running backend, the application uses Eve
 ## Engineering Decisions & Tradeoffs
 
 ### Simplifying the Architecture
-At a Glance originally ran on EC2 and later Lightsail with FastAPI, SQLAlchemy, and PostgreSQL. Because the workload is primarily read-only and changes on predictable intervals, I replaced the always-running backend with scheduled Lambda functions and precomputed JSON in S3. This trades real-time processing for significantly lower cost, complexity, and operational overhead.
+The original version used a traditional FastAPI and PostgreSQL backend hosted on EC2 and later Lightsail. As the project evolved, it became clear that most data could be fetched ahead of time rather than computed on demand. Moving to scheduled Lambda producers and static S3 data removed the need for an always-running application server and database, reducing both cost and operational complexity.
 
 ### Freshness vs. Reliability
-Each data source is refreshed according to how quickly it changes, with corresponding CloudFront cache policies. If an upstream API fails, the system generally preserves the last successful snapshot rather than overwriting it with incomplete data. This intentionally favors temporary staleness over an unavailable or broken dashboard.
+Data sources use different refresh and cache intervals based on how quickly their content changes. If an upstream API fails, the system preserves the last successful snapshot, favoring temporary staleness over unavailable or invalid data.
 
 ### Failure Isolation
-Each external API is handled by an independent Lambda producer with its own schedule and failure boundary. One integration can fail without preventing unrelated data from updating. This adds some infrastructure configuration but keeps integrations independently testable, observable, and easier to maintain.
+Each external API has an independent Lambda producer and failure boundary. This adds some configuration, but prevents one failing integration from disrupting unrelated data and keeps each producer independently testable.
 
 ### Predictable API Usage
-External APIs are called on scheduled cadences rather than in response to page views. This keeps API consumption predictable and within free-tier limits while allowing frequently changing sources such as weather to update more often than slower-changing content.
+External APIs are fetched on scheduled cadences rather than on page views. This makes usage predictable, stays within API limits, and allows refresh frequency to match how quickly each source changes.
 
 ### Cost as a Design Constraint
-The architecture was designed for near-zero ongoing cost without requiring an always-running server. S3 stores the static application and generated data, CloudFront handles cached delivery, and Lambda performs computation only when scheduled. The result sacrifices some runtime flexibility in exchange for predictable cost and minimal infrastructure to operate.
+The system was designed for near-zero ongoing cost, using scheduled compute and cached static delivery instead of idle infrastructure. This limits some runtime flexibility in exchange for predictable costs and minimal infrastructure to operate.
