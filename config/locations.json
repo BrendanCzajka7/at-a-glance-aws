@@ -1,0 +1,81 @@
+{
+  "locations": [
+    {
+      "key": "lagrange-park-il",
+      "name": "LaGrange Park, IL",
+      "latitude": 41.8348,
+      "longitude": -87.8617,
+      "timezone": "America/Chicago"
+    },
+    {
+      "key": "fort-walton-beach-fl",
+      "name": "Fort Walton Beach, FL",
+      "latitude": 30.4201,
+      "longitude": -86.6170,
+      "timezone": "America/Chicago"
+    },
+    {
+      "key": "dixon-il",
+      "name": "Dixon, IL",
+      "latitude": 41.8389,
+      "longitude": -89.4795,
+      "timezone": "America/Chicago"
+    },
+    {
+      "key": "madison-wi",
+      "name": "Madison, WI",
+      "latitude": 43.0731,
+      "longitude": -89.4012,
+      "timezone": "America/Chicago"
+    },
+    {
+      "key": "fort-collins-co",
+      "name": "Fort Collins, CO",
+      "latitude": 40.5853,
+      "longitude": -105.0844,
+      "timezone": "America/Denver"
+    },
+    {
+      "key": "seattle-wa",
+      "name": "Seattle, WA",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "key": "phoenix-az",
+      "name": "Phoenix, AZ",
+      "latitude": 33.4484,
+      "longitude": -112.0740,
+      "timezone": "America/Phoenix"
+    },
+    {
+      "key": "tallinn-estonia",
+      "name": "Tallinn, Estonia",
+      "latitude": 59.4370,
+      "longitude": 24.7536,
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "key": "bryne-norway",
+      "name": "Bryne, Norway",
+      "latitude": 58.7354,
+      "longitude": 5.6477,
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "key": "portland-or",
+      "name": "Portland, OR",
+      "latitude": 45.5152,
+      "longitude": -122.6784,
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "key": "lexington-ky",
+      "name": "Lexington, KY",
+      "latitude": 38.0406,
+      "longitude": -84.5037,
+      "timezone": "America/New_York"
+    }
+  ]
+}

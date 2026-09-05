@@ -1,0 +1,884 @@
+{
+  "questions": [
+    {
+      "question": "What everyday kitchen appliance was invented after an engineer noticed a candy bar melting in his pocket near radar equipment?",
+      "answer": "The microwave oven."
+    },
+    {
+      "question": "What common fruit is technically a berry, while strawberries are not?",
+      "answer": "A banana."
+    },
+    {
+      "question": "What animal has fingerprints so similar to humans that they can be difficult to distinguish at a glance?",
+      "answer": "Koalas."
+    },
+    {
+      "question": "What seemingly solid material in old cathedral windows does not actually flow downward at room temperature, despite a popular myth?",
+      "answer": "Glass."
+    },
+    {
+      "question": "What makes popping corn different from most other corn?",
+      "answer": "Its hull traps steam until pressure builds enough to explosively expand the starch."
+    },
+    {
+      "question": "Which country has more pyramids than Egypt?",
+      "answer": "Sudan."
+    },
+    {
+      "question": "What was the shortest war in recorded history, lasting well under an hour?",
+      "answer": "The Anglo-Zanzibar War of 1896."
+    },
+    {
+      "question": "What everyday product was originally marketed as wallpaper cleaner before becoming a children's toy?",
+      "answer": "Play-Doh."
+    },
+    {
+      "question": "Which famous landmark was originally intended to stand for only about 20 years?",
+      "answer": "The Eiffel Tower."
+    },
+    {
+      "question": "Which sea has no coastline?",
+      "answer": "The Sargasso Sea."
+    },
+    {
+      "question": "What is unusual about the direction Venus rotates compared with most planets?",
+      "answer": "Venus rotates in the opposite direction, so the Sun would appear to rise in the west."
+    },
+    {
+      "question": "What causes the distinctive smell after rain hits dry ground?",
+      "answer": "Petrichor, especially compounds such as geosmin released from soil."
+    },
+    {
+      "question": "What was bubble wrap originally invented to be?",
+      "answer": "Textured wallpaper."
+    },
+    {
+      "question": "Which continent contains the world's largest desert?",
+      "answer": "Antarctica. A desert is defined by low precipitation, not heat."
+    },
+    {
+      "question": "What familiar symbol was once called the 'octothorpe' in telephone-industry usage?",
+      "answer": "The # symbol."
+    },
+    {
+      "question": "What is happening physically when your knuckles crack?",
+      "answer": "A rapid pressure change in joint fluid forms a gas cavity, producing the sound."
+    },
+    {
+      "question": "Which planet has a day longer than its year?",
+      "answer": "Venus."
+    },
+    {
+      "question": "What animal can survive being frozen for weeks and thaw back to activity?",
+      "answer": "The wood frog."
+    },
+    {
+      "question": "What is the world's largest organism by known area?",
+      "answer": "A honey fungus, Armillaria, colony in Oregon."
+    },
+    {
+      "question": "Which everyday fastener was inspired by burrs sticking to a dog's fur?",
+      "answer": "Velcro."
+    },
+    {
+      "question": "Why is the sky on Mars often reddish but sunsets can appear blue?",
+      "answer": "Fine Martian dust scatters red light broadly while directing more blue light toward the Sun at sunset."
+    },
+    {
+      "question": "What did the inventor of the Pringles can reportedly have some of his ashes buried in?",
+      "answer": "A Pringles can."
+    },
+    {
+      "question": "What ancient city had a sophisticated sewer and drainage system more than 4,000 years ago?",
+      "answer": "Mohenjo-daro of the Indus Valley Civilization."
+    },
+    {
+      "question": "What is the technical reason airplane windows have tiny holes near the bottom?",
+      "answer": "The bleed hole equalizes pressure between window panes and helps keep the inner pane from bearing the full pressure load."
+    },
+    {
+      "question": "What phenomenon makes the Moon look larger near the horizon even though its angular size barely changes?",
+      "answer": "The Moon illusion."
+    },
+    {
+      "question": "What was the first item ever sold using a barcode scanner in a retail store?",
+      "answer": "A pack of Wrigley's Juicy Fruit gum."
+    },
+    {
+      "question": "What causes bananas to help ripen nearby fruit faster?",
+      "answer": "They release ethylene gas, a plant hormone that promotes ripening."
+    },
+    {
+      "question": "Which European country has an official national animal that is mythical?",
+      "answer": "Scotland. Its national animal is the unicorn."
+    },
+    {
+      "question": "What makes a boomerang capable of returning when thrown correctly?",
+      "answer": "Its spinning airfoil-shaped arms create uneven aerodynamic forces that curve its flight path."
+    },
+    {
+      "question": "What invention did NASA help popularize for cordless tools but did not actually invent?",
+      "answer": "Cordless power-tool technology. NASA collaboration advanced battery-powered tools but did not invent the cordless drill."
+    },
+    {
+      "question": "What everyday phenomenon is caused by tiny gas bubbles collapsing in a liquid and can damage ship propellers?",
+      "answer": "Cavitation."
+    },
+    {
+      "question": "Which famous scientist was offered the presidency of Israel in 1952 but declined?",
+      "answer": "Albert Einstein."
+    },
+    {
+      "question": "What is unusual about wombat droppings?",
+      "answer": "They are cube-shaped."
+    },
+    {
+      "question": "What strange defensive trick can a horned lizard use against predators?",
+      "answer": "It can squirt blood from around its eyes."
+    },
+    {
+      "question": "What is the actual purpose of the ridges on the edges of many coins?",
+      "answer": "They originally made it obvious when precious metal had been shaved from a coin's edge."
+    },
+    {
+      "question": "What surprising relationship exists between birds and dinosaurs?",
+      "answer": "Modern birds are living theropod dinosaurs."
+    },
+    {
+      "question": "Which ancient people developed concrete that can remain remarkably durable in seawater for millennia?",
+      "answer": "The Romans."
+    },
+    {
+      "question": "What makes glow sticks glow without becoming hot?",
+      "answer": "Chemiluminescence: a chemical reaction releases energy primarily as light rather than heat."
+    },
+    {
+      "question": "Why does your recorded voice sound so different from the voice you hear while speaking?",
+      "answer": "You normally hear your own voice partly through vibrations conducted through your skull, which recordings do not include."
+    },
+    {
+      "question": "Which planet has the fastest winds measured in the solar system?",
+      "answer": "Neptune."
+    },
+    {
+      "question": "What causes a rainbow's circular shape even though we usually see only an arc?",
+      "answer": "Light leaves droplets at a characteristic angle around the point opposite the Sun. The ground usually blocks the rest of the circle."
+    },
+    {
+      "question": "What creature can regenerate an entire body from a small piece and is famous in biology labs for this ability?",
+      "answer": "A planarian flatworm."
+    },
+    {
+      "question": "What was the original practical purpose of high heels in Persian cavalry?",
+      "answer": "They helped riders secure their feet in stirrups."
+    },
+    {
+      "question": "What unusual ability lets some sea slugs use chloroplasts stolen from algae?",
+      "answer": "They retain the chloroplasts in their tissues and can benefit from photosynthesis for a time."
+    },
+    {
+      "question": "What happens to time near a very strong gravitational field according to general relativity?",
+      "answer": "It passes more slowly relative to regions with weaker gravity."
+    },
+    {
+      "question": "Why is stainless steel resistant to rust?",
+      "answer": "Chromium forms a thin, self-repairing protective oxide layer on the surface."
+    },
+    {
+      "question": "Which everyday navigation technology requires corrections for both special and general relativity?",
+      "answer": "GPS."
+    },
+    {
+      "question": "Which body part has no blood vessels and gets oxygen directly from the air?",
+      "answer": "The cornea."
+    },
+    {
+      "question": "Why are there no naturally occurring green stars visible to the human eye?",
+      "answer": "A star hot enough to emit strongly in green also emits substantial red and blue light, which our eyes combine into white."
+    },
+    {
+      "question": "What invention emerged after a naval engineer knocked a torsion spring from a shelf and watched how it moved?",
+      "answer": "The Slinky."
+    },
+    {
+      "question": "What common blue pigment was once more valuable than gold because it was made from lapis lazuli?",
+      "answer": "Ultramarine."
+    },
+    {
+      "question": "Why do your fingers wrinkle in water even though they are not simply swelling like sponges?",
+      "answer": "The nervous system constricts blood vessels beneath the skin, creating the wrinkles."
+    },
+    {
+      "question": "What historical accident led to the discovery of X-rays?",
+      "answer": "Wilhelm Röntgen noticed a fluorescent screen glowing during experiments with cathode rays, revealing an unknown form of penetrating radiation."
+    },
+    {
+      "question": "What common animal can taste with its feet?",
+      "answer": "Butterflies."
+    },
+    {
+      "question": "Why do mirrors not truly reverse left and right?",
+      "answer": "A mirror reverses the axis perpendicular to its surface. We interpret that transformation as a left-right reversal."
+    },
+    {
+      "question": "Which tree produces cinnamon?",
+      "answer": "Cinnamomum trees. Cinnamon is made from their inner bark."
+    },
+    {
+      "question": "What surprising thing do sea otters sometimes do while sleeping so they do not drift apart?",
+      "answer": "They hold paws or wrap themselves in kelp."
+    },
+    {
+      "question": "What technology was famously demonstrated in 1844 with the message 'What hath God wrought'?",
+      "answer": "The long-distance electric telegraph using Morse code."
+    },
+    {
+      "question": "What is unusual about Lake Baikal?",
+      "answer": "It is the world's deepest lake and contains roughly one-fifth of Earth's unfrozen surface freshwater."
+    },
+    {
+      "question": "Why can you hear an ocean-like sound when holding a seashell to your ear?",
+      "answer": "The shell filters and resonates ambient sounds around you. It is not storing the sound of the ocean."
+    },
+    {
+      "question": "What familiar condiment began as fermented fish sauces in Asia rather than a tomato sauce?",
+      "answer": "Ketchup."
+    },
+    {
+      "question": "What makes a gecko able to climb smooth walls without glue?",
+      "answer": "Millions of microscopic hairs on its toes exploit weak intermolecular van der Waals forces."
+    },
+    {
+      "question": "What famous structure was moved piece by piece in the 1960s to save it from flooding caused by the Aswan High Dam?",
+      "answer": "The temples of Abu Simbel."
+    },
+    {
+      "question": "What does a one-unit increase in earthquake magnitude roughly mean for released energy?",
+      "answer": "Roughly 32 times more energy."
+    },
+    {
+      "question": "What material was accidentally created while trying to develop a clear plastic gunsight and later became famous for nonstick cookware?",
+      "answer": "PTFE, commonly known by the brand name Teflon."
+    },
+    {
+      "question": "Which moon has a thick nitrogen atmosphere and lakes of liquid methane and ethane?",
+      "answer": "Titan."
+    },
+    {
+      "question": "What is unusual about zero in classical Roman numerals?",
+      "answer": "They had no standard numeral for zero."
+    },
+    {
+      "question": "What is the Mpemba effect?",
+      "answer": "The counterintuitive observation that under some conditions hotter water can freeze faster than colder water."
+    },
+    {
+      "question": "What physical object was found in a Harvard computer in 1947 and became associated with the term 'computer bug'?",
+      "answer": "A moth trapped in a relay of the Harvard Mark II."
+    },
+    {
+      "question": "Why is a tennis ball fuzzy?",
+      "answer": "The felt changes drag and spin behavior, helping control the ball's flight and bounce."
+    },
+    {
+      "question": "What is the Antikythera mechanism?",
+      "answer": "An ancient Greek geared device used to calculate astronomical positions and eclipses."
+    },
+    {
+      "question": "Why does menthol make your mouth feel cold without significantly lowering its temperature?",
+      "answer": "It activates cold-sensitive TRPM8 receptors."
+    },
+    {
+      "question": "Which city has an ancient underground cistern supported by hundreds of columns, including two reused Medusa heads?",
+      "answer": "Istanbul, in the Basilica Cistern."
+    },
+    {
+      "question": "Why does a bicycle become easier to balance once it is moving?",
+      "answer": "Steering dynamics, wheel geometry, and rider corrections stabilize it. Gyroscopic effects contribute but are not the whole explanation."
+    },
+    {
+      "question": "What famous 1815 volcanic eruption helped cause the 'Year Without a Summer' in 1816?",
+      "answer": "Mount Tambora."
+    },
+    {
+      "question": "Which animal can change both the color and texture of its skin for camouflage?",
+      "answer": "Octopuses and cuttlefish."
+    },
+    {
+      "question": "What is unusual about Halley's Comet's orbit compared with the planets?",
+      "answer": "It travels around the Sun in the retrograde direction, opposite most planets."
+    },
+    {
+      "question": "What common household technology uses a piezoelectric crystal to create a spark when you press a button?",
+      "answer": "Many push-button gas lighters and grill igniters."
+    },
+    {
+      "question": "Which planet has a giant hexagonal atmospheric pattern at its north pole?",
+      "answer": "Saturn."
+    },
+    {
+      "question": "What makes superglue bond skin so quickly?",
+      "answer": "Moisture on the skin rapidly triggers cyanoacrylate polymerization."
+    },
+    {
+      "question": "Why can you not tickle yourself effectively?",
+      "answer": "Your brain predicts the sensory consequences of your own movements and dampens the response."
+    },
+    {
+      "question": "What is the origin of the word 'robot'?",
+      "answer": "It comes from the Czech word 'robota,' meaning forced labor or drudgery."
+    },
+    {
+      "question": "Which empire used mounted couriers and relay stations along the Royal Road to move messages rapidly?",
+      "answer": "The Achaemenid Persian Empire."
+    },
+    {
+      "question": "What happens to an object's invariant mass as it approaches the speed of light?",
+      "answer": "Its invariant mass stays the same while its energy and momentum increase dramatically."
+    },
+    {
+      "question": "What is unusual about the Sahara over geological time?",
+      "answer": "It repeatedly shifts between extremely dry desert and much greener conditions, partly because of changes in Earth's orbital cycles."
+    },
+    {
+      "question": "What gives red blood cells their biconcave shape an advantage?",
+      "answer": "It increases surface area for gas exchange and helps the cells flex through tiny capillaries."
+    },
+    {
+      "question": "Why can ice remain slippery even below freezing?",
+      "answer": "Its surface retains a thin mobile molecular layer, while pressure and friction during motion can add further lubrication."
+    },
+    {
+      "question": "What part of a mushroom is mostly hidden underground?",
+      "answer": "The mycelium, a network of fungal threads."
+    },
+    {
+      "question": "What was the first element discovered in the Sun before being isolated on Earth?",
+      "answer": "Helium."
+    },
+    {
+      "question": "Why does a microwave heat food much more strongly than many empty ceramic plates?",
+      "answer": "Microwaves interact efficiently with polar molecules and ions, especially water in food, while many ceramics absorb much less microwave energy."
+    },
+    {
+      "question": "What animal can regenerate a functional limb including bone, muscle, nerves, and skin?",
+      "answer": "The axolotl."
+    },
+    {
+      "question": "What color are airplane 'black boxes' usually?",
+      "answer": "Bright orange, so they are easier to locate after a crash."
+    },
+    {
+      "question": "Why does your stomach not normally digest itself?",
+      "answer": "A mucus-bicarbonate barrier, tight cell junctions, rapid cell renewal, and regulated acid secretion protect the stomach lining."
+    },
+    {
+      "question": "Which ancient civilization used knotted cords called quipu to record numerical and administrative information?",
+      "answer": "The Inca."
+    },
+    {
+      "question": "What happened to the Library of Alexandria?",
+      "answer": "It likely declined through several episodes of damage, neglect, and institutional change rather than vanishing in one single legendary fire."
+    },
+    {
+      "question": "What famous archaeological site in Turkey predates Stonehenge by thousands of years and contains monumental carved pillars?",
+      "answer": "Göbekli Tepe."
+    },
+    {
+      "question": "Why do stars twinkle more noticeably than planets?",
+      "answer": "Stars appear as point sources, so atmospheric turbulence distorts their light more strongly than the wider apparent disks of planets."
+    },
+    {
+      "question": "What common Indonesian food is made by fermenting soybeans with molds and bacteria?",
+      "answer": "Tempeh."
+    },
+    {
+      "question": "Why can some frogs breathe partly through their skin?",
+      "answer": "Their thin, moist skin allows gases to diffuse directly between blood vessels and the environment."
+    },
+    {
+      "question": "What happens if you leave a refrigerator door open in a closed room?",
+      "answer": "The room gets slightly warmer because the refrigerator moves heat into the room and adds waste heat from its compressor."
+    },
+    {
+      "question": "What mysterious manuscript contains an undeciphered script and unusual botanical and astronomical illustrations?",
+      "answer": "The Voynich Manuscript."
+    },
+    {
+      "question": "Which human sense has unusually direct connections to brain regions involved in memory and emotion?",
+      "answer": "Smell, or olfaction."
+    },
+    {
+      "question": "What extreme survival strategy lets tardigrades endure severe dehydration and other harsh conditions?",
+      "answer": "Cryptobiosis, in which they enter a dried 'tun' state with extremely low metabolic activity."
+    },
+    {
+      "question": "What famous 1940 engineering disaster became a classic example of aeroelastic flutter?",
+      "answer": "The collapse of the Tacoma Narrows Bridge."
+    },
+    {
+      "question": "What physical principle allows hydraulic brakes to multiply force?",
+      "answer": "Pascal's principle."
+    },
+    {
+      "question": "Why does bread become stale even when it has not simply dried out?",
+      "answer": "Starch molecules recrystallize in a process called retrogradation."
+    },
+    {
+      "question": "What is unusual about a mantis shrimp's punch?",
+      "answer": "Its strike is so fast that it creates cavitation bubbles whose collapse produces an additional impact."
+    },
+    {
+      "question": "Why do some rocks appear to move by themselves across Death Valley's Racetrack Playa?",
+      "answer": "Thin floating ice panels pushed by wind can slowly drag the rocks across wet mud."
+    },
+    {
+      "question": "What lets an induction cooktop heat a pan without a conventional glowing heating element?",
+      "answer": "A changing magnetic field induces electrical currents directly in compatible cookware."
+    },
+    {
+      "question": "Why are mature human red blood cells missing nuclei?",
+      "answer": "Losing the nucleus creates more room for hemoglobin and helps the cells remain flexible."
+    },
+    {
+      "question": "Why can a sealed bag of chips puff up on an airplane?",
+      "answer": "Cabin pressure is lower than the pressure of the gas sealed inside the bag at ground level."
+    },
+    {
+      "question": "Why does adding carbon to iron make steel stronger?",
+      "answer": "Carbon atoms disrupt the iron crystal structure and make it harder for defects called dislocations to move."
+    },
+    {
+      "question": "What makes a soap bubble display shifting rainbow colors?",
+      "answer": "Thin-film interference between light reflected from the bubble's inner and outer surfaces."
+    },
+    {
+      "question": "What is the Mohorovičić discontinuity, commonly called the Moho?",
+      "answer": "The boundary between Earth's crust and mantle."
+    },
+    {
+      "question": "Why can a piece of gallium melt in your hand?",
+      "answer": "Its melting point is about 29.8°C, or 85.6°F, which is below body temperature."
+    },
+    {
+      "question": "Why do old copper roofs and statues turn green?",
+      "answer": "Copper reacts with air, water, carbon dioxide, and pollutants to form a protective patina."
+    },
+    {
+      "question": "What unusual defensive ability can sea cucumbers use?",
+      "answer": "Some species can eject internal organs or sticky structures and later regenerate them."
+    },
+    {
+      "question": "Why does caffeine make you feel less sleepy?",
+      "answer": "It blocks adenosine receptors in the brain, reducing signals associated with sleepiness."
+    },
+    {
+      "question": "What material forms when lava cools so rapidly that crystals do not have time to grow?",
+      "answer": "Obsidian."
+    },
+    {
+      "question": "How slowly can a blue whale's heart beat during deep dives?",
+      "answer": "Only a few beats per minute."
+    },
+    {
+      "question": "Why can iron be strongly attracted to magnets while aluminum usually is not?",
+      "answer": "Iron is ferromagnetic and can align magnetic domains strongly, while aluminum is only weakly paramagnetic."
+    },
+    {
+      "question": "What enormous reservoir of icy objects is thought to surround the solar system far beyond Pluto?",
+      "answer": "The Oort Cloud."
+    },
+    {
+      "question": "What makes carbon monoxide especially dangerous?",
+      "answer": "It binds to hemoglobin far more strongly than oxygen does, reducing the blood's ability to carry oxygen."
+    },
+    {
+      "question": "Why is Earth's interior still hot billions of years after the planet formed?",
+      "answer": "Heat remains from Earth's formation and differentiation, while radioactive decay continues generating additional heat."
+    },
+    {
+      "question": "What was unusual about the first successful circumnavigation of Earth?",
+      "answer": "Ferdinand Magellan started the expedition but died before it finished; Juan Sebastián Elcano completed the voyage aboard the Victoria."
+    },
+    {
+      "question": "Why does a spinning figure skater rotate faster after pulling in their arms?",
+      "answer": "Conservation of angular momentum. Pulling the arms inward reduces rotational inertia and increases angular speed."
+    },
+    {
+      "question": "Why can fresh pineapple make your mouth feel raw?",
+      "answer": "It contains bromelain, protein-digesting enzymes, along with acids that can irritate oral tissue."
+    },
+    {
+      "question": "Which early alphabet strongly influenced Greek and later Latin writing?",
+      "answer": "The Phoenician alphabet."
+    },
+    {
+      "question": "Why can deep-sea animals benefit from being transparent?",
+      "answer": "Transparency makes them much harder for predators and prey to see in open water."
+    },
+    {
+      "question": "Why does a metal ship float even though steel is denser than water?",
+      "answer": "Its hollow shape makes the ship's overall average density low enough for displaced water to provide sufficient buoyancy."
+    },
+    {
+      "question": "What unusual fish has a transparent dome-shaped head through which its tubular eyes can rotate?",
+      "answer": "The barreleye fish."
+    },
+    {
+      "question": "Why can a full soda can sink while a diet soda can often float?",
+      "answer": "The dissolved sugar in regular soda adds enough mass to make many cans denser than water, while diet sweeteners add very little mass."
+    },
+    {
+      "question": "Why can a candle flame become nearly spherical in microgravity?",
+      "answer": "Without buoyancy pulling hot gases upward, oxygen reaches the flame mainly by diffusion from all directions."
+    },
+    {
+      "question": "What ancient geared machine could predict eclipses and astronomical positions?",
+      "answer": "The Antikythera mechanism."
+    },
+    {
+      "question": "Why can an induction charger transfer energy without electrical contacts?",
+      "answer": "Alternating current in one coil creates a changing magnetic field that induces current in a nearby coil."
+    },
+    {
+      "question": "Why can supercooled water freeze almost instantly when tapped?",
+      "answer": "The disturbance triggers nucleation, allowing ice crystals to spread rapidly through water that is already below its normal freezing point."
+    },
+    {
+      "question": "Why can a laser pointer's spot sweep across a distant surface faster than light without violating relativity?",
+      "answer": "The spot is not a physical object or information moving along the surface; different photons illuminate different locations."
+    },
+    {
+      "question": "Why can water droplets dance around on an extremely hot pan?",
+      "answer": "The Leidenfrost effect creates an insulating layer of vapor beneath the droplets."
+    },
+    {
+      "question": "Why can an orbiting satellite feel weightless even though Earth's gravity is still strong there?",
+      "answer": "The satellite and everything inside it are continuously falling together around Earth."
+    },
+    {
+      "question": "Why can a magnet levitate above a superconductor?",
+      "answer": "The superconductor expels or pins magnetic flux, producing forces capable of stable magnetic levitation."
+    },
+    {
+      "question": "Why does a bottle sometimes make a glugging sound when liquid is poured quickly?",
+      "answer": "Air and liquid alternately pass through the narrow opening, causing oscillating pressure and flow."
+    },
+    {
+      "question": "Why do astronauts grow slightly taller in space?",
+      "answer": "Without normal gravitational compression, spinal discs expand and the spine lengthens temporarily."
+    },
+    {
+      "question": "What animal can make one of the loudest biological sounds in the ocean with a snapping claw?",
+      "answer": "The snapping shrimp."
+    },
+    {
+      "question": "Why can a thin metal needle float on water if placed very carefully?",
+      "answer": "Surface tension can support it even though the metal itself is denser than water."
+    },
+    {
+      "question": "Why can an airplane wing still produce lift while the aircraft is upside down?",
+      "answer": "Lift depends strongly on angle of attack and how the wing redirects airflow, not simply on one side being more curved."
+    },
+    {
+      "question": "Why can some frogs survive with much of their body frozen?",
+      "answer": "Species such as wood frogs produce high concentrations of protective sugars that limit cellular damage while ice forms outside many cells."
+    },
+    {
+      "question": "Why does a spinning ball curve through the air?",
+      "answer": "The Magnus effect creates asymmetric airflow and pressure around the spinning ball."
+    },
+    {
+      "question": "Why can room-temperature water boil inside a vacuum chamber?",
+      "answer": "Reducing the surrounding pressure lowers water's boiling point."
+    },
+    {
+      "question": "Why can an optical fiber carry light around bends?",
+      "answer": "Light remains trapped within the fiber's core primarily through total internal reflection."
+    },
+    {
+      "question": "Why can a large ship sit lower in freshwater than in seawater?",
+      "answer": "Freshwater is less dense, so the ship must displace more of it to support the same weight."
+    },
+    {
+      "question": "Why can stars remain stable for billions of years instead of collapsing under their own gravity?",
+      "answer": "Outward pressure from the star's hot interior balances inward gravity in hydrostatic equilibrium."
+    },
+    {
+      "question": "Why can a fluorescent object appear unusually bright under ultraviolet light?",
+      "answer": "It absorbs invisible ultraviolet photons and re-emits some of that energy as visible light."
+    },
+    {
+      "question": "Why does a satellite in a higher circular orbit move more slowly than one in a lower orbit?",
+      "answer": "Gravity is weaker farther from Earth, so the circular orbital speed required is lower."
+    },
+    {
+      "question": "What animal uses the Milky Way to navigate at night?",
+      "answer": "Dung beetles."
+    },
+    {
+      "question": "Why can a siphon or straw not lift water indefinitely high?",
+      "answer": "Atmospheric pressure can support only a limited water column, roughly 10.3 meters at sea level in the ideal case."
+    },
+    {
+      "question": "Why can snow insulate the ground and keep it warmer than the air above?",
+      "answer": "Snow traps large amounts of air, which has low thermal conductivity and slows heat loss."
+    },
+    {
+      "question": "Why can a full Moon near the horizon appear orange?",
+      "answer": "Its light passes through more atmosphere, scattering away more short blue wavelengths."
+    },
+    {
+      "question": "What animal can produce a superheated chemical spray as a defense?",
+      "answer": "The bombardier beetle."
+    },
+    {
+      "question": "Why can the Sun appear a few minutes before it geometrically rises?",
+      "answer": "Atmospheric refraction bends sunlight over the horizon."
+    },
+    {
+      "question": "Why can a wet finger make a wineglass sing when rubbed around the rim?",
+      "answer": "Stick-slip friction drives the glass at one of its resonant vibration frequencies."
+    },
+    {
+      "question": "Why can a metal can collapse after steam inside it condenses?",
+      "answer": "Condensing steam drastically lowers the internal pressure, allowing outside atmospheric pressure to crush the can."
+    },
+    {
+      "question": "What animal can generate electrical signals both for sensing and for powerful defensive shocks?",
+      "answer": "The electric eel."
+    },
+    {
+      "question": "Why can a black surface cool faster than a shiny one in a vacuum?",
+      "answer": "A dark surface usually has higher thermal emissivity and radiates infrared energy more efficiently."
+    },
+    {
+      "question": "Why does a bottle's pitch rise as you add water when tapping it, but often fall when blowing across the opening?",
+      "answer": "Tapping excites the glass-and-water system while blowing excites the air cavity, and adding water changes those resonances in opposite ways."
+    },
+    {
+      "question": "Why can the ISS be visible from the ground after sunset even though it produces no visible light?",
+      "answer": "It can still be illuminated by the Sun at orbital altitude and reflects that sunlight toward observers on the dark ground."
+    },
+    {
+      "question": "Why can an electric transformer change voltage without any moving parts?",
+      "answer": "Alternating current creates changing magnetic flux that induces a different voltage in another coil."
+    },
+    {
+      "question": "Why can a full glass of water bulge slightly above its rim without spilling?",
+      "answer": "Surface tension holds the curved water surface together against gravity."
+    },
+    {
+      "question": "Why can a rainbow form a complete circle when viewed from an airplane?",
+      "answer": "At altitude the ground may not block the lower part of the rainbow cone around the antisolar point."
+    },
+    {
+      "question": "Why can a charged comb attract neutral pieces of paper?",
+      "answer": "Its electric field polarizes charges inside the paper, producing a net attraction."
+    },
+    {
+      "question": "Why can an airplane stall even when its engine is running normally?",
+      "answer": "A stall occurs when the wing exceeds its critical angle of attack, causing airflow separation and a sharp loss of lift."
+    },
+    {
+      "question": "Why can a guitar harmonic sound much higher than the open string?",
+      "answer": "Touching the string at a node suppresses the fundamental vibration and favors higher-frequency standing-wave modes."
+    },
+    {
+      "question": "Why can a soap bubble show black patches immediately before it pops?",
+      "answer": "The film becomes so thin that destructive interference removes much of the reflected visible light."
+    },
+    {
+      "question": "Why can a metal wire snap after being bent back and forth repeatedly?",
+      "answer": "Repeated loading causes metal fatigue, allowing microscopic cracks to grow until the wire fails."
+    },
+    {
+      "question": "Why does a rainbow sometimes have a second, fainter arc with its colors reversed?",
+      "answer": "The secondary rainbow involves two internal reflections inside each droplet, reversing the color order and reducing intensity."
+    },
+    {
+      "question": "Why can clear ice become cloudy in the center?",
+      "answer": "As water freezes inward, dissolved gases and impurities are pushed ahead of the freezing front and become trapped near the center."
+    },
+    {
+      "question": "Why does a hot-air balloon descend when its burner is reduced?",
+      "answer": "The air inside cools and becomes denser, reducing the balloon's buoyant lift."
+    },
+    {
+      "question": "Why can a very tall building sway noticeably in strong wind without being structurally unsafe?",
+      "answer": "Tall buildings are designed to flex elastically under wind loads, often with damping systems that control excessive motion."
+    },
+    {
+      "question": "Why can an ice cube crack when dropped into a warm drink?",
+      "answer": "The outside warms and expands faster than the still-cold interior, creating thermal stress."
+    },
+    {
+      "question": "Why can a meteor glow even though ordinary friction is not the main heating mechanism?",
+      "answer": "Air ahead of it is rapidly compressed and heated while shocked gas and ablated material emit light."
+    },
+    {
+      "question": "Why can some clouds form smooth lens-like shapes near mountains?",
+      "answer": "Stable moist air forms standing atmospheric waves over terrain, with condensation occurring near the wave crests."
+    },
+    {
+      "question": "What animal can make a high-pressure water jet accurate enough to knock insects from branches?",
+      "answer": "Archerfish."
+    },
+    {
+      "question": "Why can a radio telescope observe through clouds that interfere with visible-light astronomy?",
+      "answer": "Many radio wavelengths pass through clouds with far less scattering and absorption than visible light."
+    },
+    {
+      "question": "Why does an airplane leave a white contrail at high altitude?",
+      "answer": "Water vapor in the exhaust condenses and freezes into tiny ice crystals in cold, humid upper air."
+    },
+    {
+      "question": "What animal can make one brain hemisphere sleep while the other remains awake?",
+      "answer": "Dolphins, along with several bird species."
+    },
+    {
+      "question": "Why can stars have noticeably different colors?",
+      "answer": "Their surface temperatures differ. Cooler stars appear redder while hotter stars appear bluer."
+    },
+    {
+      "question": "Why can a pressure wave travel through a solid without the solid itself moving from one end to the other?",
+      "answer": "Individual particles oscillate locally and pass energy and momentum to neighboring particles."
+    },
+    {
+      "question": "Why can a falling cat turn itself upright without violating conservation of angular momentum?",
+      "answer": "It twists different sections of its body in opposite ways while changing their moments of inertia, allowing overall reorientation."
+    },
+    {
+      "question": "What animal uses a transparent third eyelid called a nictitating membrane to protect its eyes?",
+      "answer": "Many animals do, including birds, reptiles, sharks, and some mammals."
+    },
+    {
+      "question": "Why can a thin wire cut slowly through ice while the ice refreezes behind it?",
+      "answer": "Pressure and heat transfer can cause localized melting around the wire followed by refreezing, a phenomenon related to regelation."
+    },
+    {
+      "question": "Why can an astronaut's bones weaken during long periods in microgravity?",
+      "answer": "Reduced mechanical loading shifts bone remodeling toward mineral loss."
+    },
+    {
+      "question": "Why does a CD or DVD show rainbow colors under white light?",
+      "answer": "Its closely spaced tracks act as a diffraction grating that separates light by wavelength."
+    },
+    {
+      "question": "Why can an unopened carbonated drink spray violently after being shaken?",
+      "answer": "Shaking creates many gas bubbles and nucleation sites, allowing dissolved carbon dioxide to expand rapidly when pressure is released."
+    },
+    {
+      "question": "Why can a vacuum make a marshmallow expand dramatically?",
+      "answer": "Lower external pressure allows trapped gas bubbles inside the marshmallow to expand."
+    },
+    {
+      "question": "Why can the Moon slowly move farther from Earth each year?",
+      "answer": "Tidal interactions transfer angular momentum from Earth's rotation into the Moon's orbit."
+    },
+    {
+      "question": "Why can a bottle whistle when you blow across its opening?",
+      "answer": "The air at the neck interacts with the compressible air inside, creating a Helmholtz resonance."
+    },
+    {
+      "question": "Why can some lakes suddenly release deadly clouds of carbon dioxide?",
+      "answer": "A limnic eruption can occur when dissolved CO2 accumulated in deep water rapidly comes out of solution and erupts to the surface."
+    },
+    {
+      "question": "Why can your fingers prune faster in warm water than in cold water?",
+      "answer": "Warmth speeds the physiological nerve and blood-vessel response involved in water-induced wrinkling."
+    },
+    {
+      "question": "Why can a high-voltage power line transmit the same power with less energy loss than a low-voltage line?",
+      "answer": "Higher voltage allows lower current, dramatically reducing resistive losses that scale with current squared."
+    },
+    {
+      "question": "Why can a wet road look much darker than a dry road?",
+      "answer": "Water fills surface irregularities and redirects more light into the pavement instead of diffusely reflecting it back toward you."
+    },
+    {
+      "question": "Why can a planet appear to move backward against the stars for a while?",
+      "answer": "Retrograde motion is a perspective effect caused by the changing relative positions and orbital speeds of Earth and the other planet."
+    },
+    {
+      "question": "Why can a fluorescent highlighter glow under a black light?",
+      "answer": "Its dyes absorb ultraviolet light and re-emit the energy as visible light."
+    },
+    {
+      "question": "Why can a very cold clear night produce more frost than a cloudy night?",
+      "answer": "Clouds radiate infrared energy back toward the ground, while a clear sky allows surfaces to lose heat more efficiently to space."
+    },
+    {
+      "question": "What animal uses specialized electroreceptors called ampullae of Lorenzini to detect prey?",
+      "answer": "Sharks and rays."
+    },
+    {
+      "question": "Why can a hot metal object change from red to orange to nearly white as it gets hotter?",
+      "answer": "Its thermal radiation becomes more intense and shifts toward shorter visible wavelengths as temperature increases."
+    },
+    {
+      "question": "Why can a spinning top stay upright for a while instead of simply falling?",
+      "answer": "Its angular momentum resists rapid changes in orientation, while gravity causes the axis to precess."
+    },
+    {
+      "question": "Why can a thin layer of oil on water produce rainbow colors?",
+      "answer": "Light reflecting from the top and bottom surfaces of the oil film interferes, enhancing different wavelengths at different thicknesses and angles."
+    },
+    {
+      "question": "What animal can maintain parts of its body warmer than the surrounding ocean using countercurrent heat exchange?",
+      "answer": "Tunas and lamnid sharks."
+    },
+    {
+      "question": "Why can a soda taste slightly sour even when no flavoring has been added?",
+      "answer": "Dissolved carbon dioxide reacts with water to form carbonic acid."
+    },
+    {
+      "question": "Why can a dark sky still appear during daytime from space?",
+      "answer": "Without an atmosphere, there is almost no air to scatter sunlight across the sky."
+    },
+    {
+      "question": "Why can a spinning coin wobble faster immediately before it falls flat?",
+      "answer": "As energy dissipates, the geometry of rolling contact causes the rate of precession to increase sharply near the end."
+    },
+    {
+      "question": "Why can water remain liquid below 0°C?",
+      "answer": "Very pure, undisturbed water can become supercooled because no suitable nucleation site has triggered crystallization."
+    },
+    {
+      "question": "Why can an eclipse reveal stars and planets during daytime?",
+      "answer": "A total solar eclipse blocks the bright solar photosphere and darkens the sky enough for bright celestial objects to become visible."
+    },
+    {
+      "question": "Why can a water droplet magnify text beneath it?",
+      "answer": "Its curved surface acts like a tiny convex lens and refracts light."
+    },
+    {
+      "question": "What animal can heat itself by vibrating flight muscles without actually flying?",
+      "answer": "Bumblebees."
+    },
+    {
+      "question": "Why can a sound sometimes shatter a glass?",
+      "answer": "A sufficiently loud tone near the glass's resonant frequency can drive vibrations large enough to fracture it."
+    },
+    {
+      "question": "Why can a road appear wet in the distance on a very hot day?",
+      "answer": "A mirage bends light through layers of air with different temperatures and refractive indices."
+    },
+    {
+      "question": "Why can an orbiting spacecraft gain speed by flying past a planet?",
+      "answer": "A gravity assist exchanges momentum with the moving planet, changing the spacecraft's speed and direction relative to the Sun."
+    },
+    {
+      "question": "What animal can naturally change sex during its lifetime in response to social conditions?",
+      "answer": "Several fish species, including clownfish and wrasses."
+    },
+    {
+      "question": "Why does the sky look blue instead of violet even though violet light scatters more strongly?",
+      "answer": "The Sun emits less violet light, some is absorbed high in the atmosphere, and human eyes are less sensitive to violet."
+    },
+    {
+      "question": "Why can the surface of a soap bubble become almost black immediately before bursting?",
+      "answer": "Its film becomes extremely thin, causing destructive interference across much of the visible spectrum."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+:root {
+  --ui-size: 16px;
+  --text: #f6fafc;
+  --muted: rgba(230, 240, 245, 0.68);
+  --glass: rgba(15, 25, 32, 0.24);
+
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+
+  font-size: var(--ui-size);
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+button {
+  font: inherit;
+}
+
+.app-page {
+  width: 100%;
+  height: 100dvh;
+
+  display: flex;
+  flex-direction: column;
+
+  background:
+    radial-gradient(
+      circle at 8% 0%,
+      #376f8a88,
+      transparent 34%
+    ),
+    linear-gradient(
+      145deg,
+      #102c3d,
+      #081824 55%,
+      #07131e
+    );
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.loading-page {
+  align-items: center;
+  justify-content: center;
+}
+
+.night {
+  background-color: #07121d;
+}
+
+.loading-line {
+  position: fixed;
+  z-index: 200;
+  top: 56px;
+  left: 0;
+
+  width: 100%;
+  height: 2px;
+
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.loading-line::after {
+  content: "";
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 28%;
+  height: 100%;
+
+  background: rgba(220, 240, 248, 0.78);
+  box-shadow: 0 0 8px rgba(220, 240, 248, 0.25);
+
+  animation: loading-progress 900ms ease-in-out infinite;
+}
+
+@keyframes loading-progress {
+  from {
+    transform: translateX(-120%);
+  }
+
+  to {
+    transform: translateX(460%);
+  }
+}
+
+main {
+  width: min(1180px, calc(100% - 48px));
+  height: min(720px, calc(100vh - 88px));
+
+  margin: auto;
+
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 2.3fr)
+    300px;
+
+  grid-template-rows:
+    0.86fr
+    1.14fr;
+
+  gap: 18px;
+}
+
+.card {
+  min-width: 0;
+  min-height: 0;
+
+  padding: 28px 36px;
+  overflow: hidden;
+
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 28px;
+
+  background: var(--glass);
+
+  box-shadow:
+    0 24px 65px rgba(0, 0, 0, 0.2),
+    inset 0 1px rgba(255, 255, 255, 0.28);
+
+  backdrop-filter: blur(16px) saturate(140%);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+}
+
+h2 {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}

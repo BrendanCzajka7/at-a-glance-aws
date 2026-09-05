@@ -1,0 +1,305 @@
+/* iPad landscape */
+
+@media (max-width: 1180px) and (orientation: landscape) {
+  :root {
+    --ui-size: 16px;
+  }
+
+  .top-bar {
+    height: 54px;
+  }
+
+  .top-bar-inner {
+    width: calc(100% - 30px);
+  }
+
+  .location-picker summary {
+    min-width: 190px;
+    height: 38px;
+  }
+
+  main {
+    width: calc(100% - 50px);
+
+    height: calc(100dvh - 90px);
+    min-height: 0;
+    flex: none;
+
+    margin: 10px auto 26px;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      240px;
+
+    gap: 12px;
+  }
+
+  .card {
+    padding: 22px 26px;
+    border-radius: 23px;
+  }
+
+  .big-temp {
+    font-size: 5.7rem;
+  }
+
+  .current-main {
+    gap: 26px;
+  }
+
+  .stats {
+    gap: 10px;
+  }
+
+  .stats svg {
+    width: 21px;
+    height: 21px;
+  }
+
+  .stats b {
+    font-size: 0.95rem;
+  }
+
+  .forecast {
+    padding-inline: 18px;
+  }
+
+  .forecast-row {
+    grid-template-columns:
+      38px
+      34px
+      28px
+      34px
+      34px;
+
+    gap: 3px;
+  }
+
+  .forecast-row b,
+  .forecast-row strong {
+    font-size: 0.8rem;
+  }
+
+  .forecast-row span {
+    font-size: 0.72rem;
+  }
+
+  .event-card {
+    width: 190px;
+    min-width: 190px;
+  }
+
+  .event-image {
+    height: 85px;
+  }
+
+  .entertainment-heading {
+    margin-bottom: 10px;
+  }
+
+  .movie-card {
+    width: 165px;
+    min-width: 165px;
+  }
+
+  .movie-image {
+    height: 88px;
+  }
+
+  .movie-filter {
+    padding: 5px 8px;
+    font-size: 0.68rem;
+  }
+
+  .music-release {
+    padding: 10px 11px;
+  }
+
+  .tracking-panel {
+    padding: 22px 18px 18px;
+  }
+
+  .knowledge-heading {
+    margin-bottom: 10px;
+  }
+
+  .knowledge-card {
+    width: 190px;
+    min-width: 190px;
+    padding: 12px 13px;
+  }
+}
+
+/* Phone */
+
+@media (max-width: 760px) {
+  html,
+  body,
+  #root {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-y: auto;
+  }
+
+  .app-page {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    min-height: 100dvh;
+    overflow-x: hidden;
+  }
+
+  .top-bar {
+    width: 100%;
+    height: auto;
+    min-height: 0;
+  }
+
+  .top-bar-inner {
+    width: calc(100% - 28px);
+    max-width: 100%;
+
+    margin: 0 auto;
+    padding: 10px 0 12px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  .page-nav {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .page-nav button {
+    flex: 1;
+    min-width: 0;
+
+    padding: 8px;
+
+    font-size: 0.76rem;
+    text-align: center;
+  }
+
+  .top-bar-controls {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      minmax(0, 1fr);
+
+    gap: 8px;
+  }
+
+  .picker {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .theme-picker summary,
+  .location-picker summary {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .picker summary {
+    height: 36px;
+    min-width: 0;
+
+    padding: 0 10px;
+
+    overflow: hidden;
+
+    font-size: 0.8rem;
+  }
+
+  .picker summary::marker {
+    display: none;
+  }
+
+  .picker-menu {
+    width: min(220px, calc(100vw - 28px));
+    max-width: calc(100vw - 28px);
+  }
+
+  main {
+    width: calc(100% - 28px);
+    max-width: calc(100% - 28px);
+
+    height: auto;
+
+    margin: 14px;
+
+    display: flex;
+    flex-direction: column;
+  }
+
+  .current-main {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .stats {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .hourly {
+    min-height: 320px;
+  }
+
+  .forecast {
+    min-height: 500px;
+  }
+
+  .entertainment-ticketmaster,
+  .entertainment-movies {
+    min-height: 300px;
+  }
+
+  .entertainment-music {
+    min-height: 420px;
+  }
+
+  .movie-card {
+    width: 180px;
+    min-width: 180px;
+  }
+
+  .tracking-panel {
+    padding: 22px;
+  }
+
+  .knowledge-wikimedia {
+    min-height: 430px;
+  }
+
+  .knowledge-trivia {
+    min-height: 220px;
+  }
+
+  .knowledge-word {
+    min-height: 280px;
+  }
+
+  .knowledge-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .knowledge-card {
+    width: 210px;
+    min-width: 210px;
+  }
+}

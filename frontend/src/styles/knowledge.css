@@ -1,0 +1,221 @@
+.knowledge-main {
+  grid-template-rows: 1fr 1fr;
+}
+
+.knowledge-wikimedia {
+  grid-column: 1;
+  grid-row: 1;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.knowledge-trivia {
+  position: relative;
+
+  grid-column: 1;
+  grid-row: 2;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.trivia-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+
+  margin-bottom: 18px;
+}
+
+.trivia-content {
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+}
+
+.trivia-content strong {
+  max-width: 680px;
+
+  font-size: 1.25rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.trivia-content span {
+  color: var(--muted);
+}
+
+.trivia-answer {
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+}
+
+.trivia-answer strong {
+  max-width: 680px;
+
+  font-size: 1.3rem;
+  line-height: 1.45;
+  font-weight: 600;
+}
+
+.trivia-answer span {
+  color: var(--muted);
+
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.knowledge-word {
+  grid-column: 2;
+  grid-row: 1 / 3;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.knowledge-heading {
+  flex: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+
+  margin-bottom: 14px;
+}
+
+.knowledge-heading > span {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.knowledge-card {
+  width: 250px;
+  min-width: 250px;
+  height: fit-content;
+  min-height: 150px;
+
+  padding: 17px 18px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  border-radius: 17px;
+
+  color: inherit;
+  background: rgba(255, 255, 255, 0.055);
+
+  text-decoration: none;
+}
+
+.knowledge-card:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.knowledge-event-scroll {
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.knowledge-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+
+  margin-bottom: 2px;
+}
+
+.knowledge-card-top span {
+  color: #bcd8e7;
+
+  font-size: 0.64rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.knowledge-card-top b {
+  color: rgba(230, 240, 245, 0.55);
+  font-size: 0.68rem;
+}
+
+.knowledge-card > strong {
+  overflow: hidden;
+
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.3;
+
+  display: -webkit-box;
+
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.knowledge-card p {
+  margin: 0;
+
+  overflow: hidden;
+
+  color: rgba(230, 240, 245, 0.74);
+
+  font-size: 0.78rem;
+  line-height: 1.5;
+
+  display: -webkit-box;
+
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.word-content {
+  flex: 1;
+  min-height: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.word-title {
+  font-size: 2rem;
+  font-weight: 650;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+
+  overflow-wrap: anywhere;
+}
+
+.word-divider {
+  width: 42px;
+  height: 1px;
+  margin: 18px 0;
+
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.word-definition {
+  margin: 0;
+
+  color: rgba(246, 250, 252, 0.82);
+
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.word-empty {
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+
+  color: var(--muted);
+}

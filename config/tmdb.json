@@ -1,0 +1,371 @@
+{
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction",
+      "enabled": true
+    }
+  ],
+  "directors": [
+    {
+      "id": 525,
+      "name": "Christopher Nolan",
+      "enabled": true
+    },
+    {
+      "id": 137427,
+      "name": "Denis Villeneuve",
+      "enabled": true
+    },
+    {
+      "id": 2036,
+      "name": "Alex Garland",
+      "enabled": true
+    },
+    {
+      "id": 578,
+      "name": "Ridley Scott",
+      "enabled": true
+    },
+    {
+      "id": 488,
+      "name": "Steven Spielberg",
+      "enabled": true
+    },
+    {
+      "id": 2710,
+      "name": "James Cameron",
+      "enabled": true
+    },
+    {
+      "id": 11218,
+      "name": "Alfonso Cuarón",
+      "enabled": true
+    },
+    {
+      "id": 2034,
+      "name": "Danny Boyle",
+      "enabled": true
+    },
+    {
+      "id": 81850,
+      "name": "Duncan Jones",
+      "enabled": true
+    },
+    {
+      "id": 129894,
+      "name": "Gareth Edwards",
+      "enabled": true
+    },
+    {
+      "id": 21684,
+      "name": "Bong Joon-ho",
+      "enabled": true
+    },
+    {
+      "id": 291263,
+      "name": "Jordan Peele",
+      "enabled": true
+    },
+    {
+      "id": 107446,
+      "name": "Phil Lord",
+      "enabled": true
+    },
+    {
+      "id": 155267,
+      "name": "Christopher Miller",
+      "enabled": true
+    },
+    {
+      "id": 146439,
+      "name": "James Ward Byrkit",
+      "enabled": true
+    },
+    {
+      "id": 2186238,
+      "name": "Andrew Patterson",
+      "enabled": true
+    },
+    {
+      "id": 1074560,
+      "name": "Justin Benson",
+      "enabled": true
+    },
+    {
+      "id": 583479,
+      "name": "Aaron Moorhead",
+      "enabled": true
+    },
+    {
+      "id": 71872,
+      "name": "Jeff Nichols",
+      "enabled": true
+    },
+    {
+      "id": 1081445,
+      "name": "Brandon Cronenberg",
+      "enabled": true
+    },
+    {
+      "id": 2128,
+      "name": "Leigh Whannell",
+      "enabled": true
+    },
+    {
+      "id": 47506,
+      "name": "Drew Goddard",
+      "enabled": true
+    },
+    {
+      "id": 82194,
+      "name": "Neill Blomkamp",
+      "enabled": true
+    },
+    {
+      "id": 1663692,
+      "name": "Juel Taylor",
+      "enabled": true
+    },
+    {
+      "id": 84833,
+      "name": "Zach Cregger",
+      "enabled": true
+    },
+    {
+      "id": 2580328,
+      "name": "Michael Sarnoski",
+      "enabled": true
+    },
+    {
+      "id": 568322,
+      "name": "Dan Trachtenberg",
+      "enabled": true
+    },
+    {
+      "id": 2219327,
+      "name": "Rose Glass",
+      "enabled": true
+    },
+    {
+      "id": 1555636,
+      "name": "Kogonada",
+      "enabled": true
+    },
+    {
+      "id": 45459,
+      "name": "Mike Cahill",
+      "enabled": true
+    },
+    {
+      "id": 32278,
+      "name": "Matt Reeves",
+      "enabled": true
+    },
+    {
+      "id": 67367,
+      "name": "Rian Johnson",
+      "enabled": true
+    },
+    {
+      "id": 11090,
+      "name": "Edgar Wright",
+      "enabled": true
+    },
+    {
+      "id": 86270,
+      "name": "Joseph Kosinski",
+      "enabled": true
+    },
+    {
+      "id": 10828,
+      "name": "Guillermo del Toro",
+      "enabled": true
+    },
+    {
+      "id": 20629,
+      "name": "George Miller",
+      "enabled": true
+    },
+    {
+      "id": 136495,
+      "name": "Damien Chazelle",
+      "enabled": true
+    },
+    {
+      "id": 7467,
+      "name": "David Fincher",
+      "enabled": true
+    },
+    {
+      "id": 54472,
+      "name": "Martin McDonagh",
+      "enabled": true
+    },
+    {
+      "id": 10099,
+      "name": "Park Chan-wook",
+      "enabled": true
+    },
+    {
+      "id": 138781,
+      "name": "Robert Eggers",
+      "enabled": true
+    },
+    {
+      "id": 1145520,
+      "name": "Ari Aster",
+      "enabled": true
+    },
+    {
+      "id": 7476,
+      "name": "David Prior",
+      "enabled": true
+    },
+    {
+      "id": 1416383,
+      "name": "Jim Cummings",
+      "enabled": true
+    },
+    {
+      "id": 74655,
+      "name": "Jeremy Saulnier",
+      "enabled": true
+    },
+    {
+      "id": 1018106,
+      "name": "S. Craig Zahler",
+      "enabled": true
+    },
+    {
+      "id": 558929,
+      "name": "David Robert Mitchell",
+      "enabled": true
+    },
+    {
+      "id": 17697,
+      "name": "John Krasinski",
+      "enabled": true
+    },
+    {
+      "id": 1317685,
+      "name": "Scott Beck",
+      "enabled": true
+    },
+    {
+      "id": 1317686,
+      "name": "Bryan Woods",
+      "enabled": true
+    },
+    {
+      "id": 54248,
+      "name": "Christopher Landon",
+      "enabled": true
+    },
+    {
+      "id": 1305412,
+      "name": "Zeek Earl",
+      "enabled": true
+    },
+    {
+      "id": 1305411,
+      "name": "Christopher Caldwell",
+      "enabled": true
+    },
+    {
+      "id": 118303,
+      "name": "Nacho Vigalondo",
+      "enabled": true
+    },
+    {
+      "id": 76624,
+      "name": "Shane Carruth",
+      "enabled": false
+    },
+    {
+      "id": 1980616,
+      "name": "Grant Sputore",
+      "enabled": true
+    },
+    {
+      "id": 125324,
+      "name": "William Eubank",
+      "enabled": true
+    },
+    {
+      "id": 1181022,
+      "name": "Zach Lipovsky",
+      "enabled": true
+    },
+    {
+      "id": 1938317,
+      "name": "Adam B. Stein",
+      "enabled": true
+    },
+    {
+      "id": 1051305,
+      "name": "Oriol Paulo",
+      "enabled": true
+    },
+    {
+      "id": 141962,
+      "name": "David Bruckner",
+      "enabled": true
+    },
+    {
+      "id": 1102882,
+      "name": "Damian McCarthy",
+      "enabled": true
+    },
+    {
+      "id": 2070453,
+      "name": "Danny Philippou",
+      "enabled": true
+    },
+    {
+      "id": 2070452,
+      "name": "Michael Philippou",
+      "enabled": true
+    },
+    {
+      "id": 1451203,
+      "name": "Chloe Okuno",
+      "enabled": true
+    },
+    {
+      "id": 2218465,
+      "name": "Parker Finn",
+      "enabled": true
+    },
+    {
+      "id": 1295292,
+      "name": "Brian Duffield",
+      "enabled": true
+    },
+    {
+      "id": 1503538,
+      "name": "Tilman Singer",
+      "enabled": true
+    },
+    {
+      "id": 1194699,
+      "name": "Joe Begos",
+      "enabled": true
+    },
+    {
+      "id": 1037999,
+      "name": "Jeremy Gillespie",
+      "enabled": true
+    },
+    {
+      "id": 1038001,
+      "name": "Steven Kostanski",
+      "enabled": true
+    },
+    {
+      "id": 138,
+      "name": "Quentin Tarantino",
+      "enabled": false
+    }
+  ]
+}
