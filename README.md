@@ -12,7 +12,7 @@ At a Glance is a serverless dashboard designed to surface useful daily informati
 
 Rather than using a traditional always-running backend, the application uses EventBridge Scheduler to trigger AWS Lambda functions that periodically fetch and normalize data. Precomputed JSON and static assets are stored in Amazon S3 and delivered through Amazon CloudFront.
 
-## Architecture
+## AWS Architecture
 
 ![At a Glance AWS architecture](docs/architecture.png)
 
